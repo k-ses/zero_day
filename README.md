@@ -1,2 +1,1 @@
-first task of my school project
-
+my first project in git bash
